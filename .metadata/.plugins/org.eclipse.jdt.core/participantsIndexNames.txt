@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Romio\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2961155273.index
+\SpringMVCcrudDemo\src\main\resources
+C:\Users\Romio\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1140224875.index
+\TestWeb\src\main\resources
+C:\Users\Romio\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2538004665.index
+\SpringMVCDemo\src\main\resources
+C:\Users\Romio\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2263827963.index
+\SpringMVCDemo\src\main\resources

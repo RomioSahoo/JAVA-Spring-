@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Romio\eclipse-workspace\JDBCTemplate\src\main\java\com\cognizant\EmployeeDao.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\SpringAOP\src\main\java\com\aop\aspect\LoggingAspect.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\EmployeeDept\src\main\resources\Employee.xml"/>
+			<item value="C:\Users\Romio\eclipse-workspace\SpringAOP\src\main\java\com\aop\test\Test.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\Autowiring_Autowired\src\main\java\Employee.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\Autowiring_constructor"/>
+			<item value="C:\Users\Romio\eclipse-workspace\PropertiesInjection\src\main\java\com\properties\main.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\InnerBean\src\main\resources\innerbean.xml"/>
+			<item value="C:\Users\Romio\eclipse-workspace\Mapdemo\src\main\java\TestMap\Product.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\listDemo\src\main\java\listDemo\main.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\Constructor_Injectrion\src\main\java\ConstructorInjection\Client.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace\ProductServices"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.cognizant"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="JDBCTemplateDemo"/>
+			<item value="JDBCTemplate"/>
+			<item value="StereotypeAnnotations"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;main.java&apos; to &apos;StereotypeAnnotations/src/main/java/com.instructor&apos;&#x0D;&#x0A;- Original project: &apos;StandaloneCollections&apos;&#x0D;&#x0A;- Destination element: &apos;StereotypeAnnotations/src/main/java/com.instructor&apos;&#x0D;&#x0A;- Original element: &apos;com.StandaloneCollections.main.java&apos;" description="Copy compilation unit" destination="=StereotypeAnnotations/src\/main\/java&lt;com.instructor" element1="/src\/main\/java&lt;com.StandaloneCollections{main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1587231396315" units="1" version="1.0"/>
+</session>

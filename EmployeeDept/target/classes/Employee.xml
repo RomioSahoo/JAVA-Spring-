@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  
+    xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:p="http://www.springframework.org/schema/p"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans  
+               http://www.springframework.org/schema/beans/spring-beans-3.0.xsd"> 
+               
+<bean id="e1" class="com.Employee.Employee">
+<constructor-arg value="114"></constructor-arg>
+<constructor-arg value="Romio Ranjan sahoo"></constructor-arg>
+<constructor-arg value="Male"></constructor-arg>
+<constructor-arg value="Intern"></constructor-arg>
+<constructor-arg value="849114@cognizant.com"></constructor-arg>
+<constructor-arg value="10800"></constructor-arg>
+</bean>    
+<bean id="e2" class="com.Employee.Employee">
+<constructor-arg value="101"></constructor-arg>
+<constructor-arg value="Smaranika Mishra"></constructor-arg>
+<constructor-arg value="Female"></constructor-arg>
+<constructor-arg value="Intern"></constructor-arg>
+<constructor-arg value="849101@cognizant.com"></constructor-arg>
+<constructor-arg value="10800"></constructor-arg>
+</bean>   
+
+<bean id="d" class="com.Employee.Department">
+<constructor-arg value="1"></constructor-arg>
+<constructor-arg value="IT"></constructor-arg>
+<constructor-arg value="Kolkata"></constructor-arg>
+<constructor-arg>
+<list>
+<ref bean="e1"/>
+<ref bean="e2"/>
+</list>
+</constructor-arg>
+</bean> 
+               
+</beans>               
